@@ -17,7 +17,7 @@ class SeriesController
         foreach ($series as $serie) {
             $html .= "<li>$series</li>";
         }
-        $html .= </ul>;
+        $html .= '</ul>';
 
         echo $html;
     }
