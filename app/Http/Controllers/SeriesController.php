@@ -15,7 +15,7 @@ class SeriesController
 
         $html = '<ul>';
         foreach ($series as $serie) {
-            $html .= "<li>$series</li>";
+            $html .= "<li>$serie</li>";
         }
         $html .= '</ul>';
 
