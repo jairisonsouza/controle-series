@@ -5,6 +5,6 @@
             <input type="text" id="nome" nome="nome" class="form-control">
         </div>
 
-        <button type="submit" class="btn tbn-primary">Adicionar</button>
+        <button type="submit" class="btn btn-primary">Adicionar</button>
     </form>
 </x-layout>
